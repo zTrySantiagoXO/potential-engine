@@ -60,3 +60,27 @@
 [17:41:37] [Server thread/INFO]: [zTrySantiago_XO: Gave 1 [ESPADA SHARPNESS] to zTrySantiago_XO]
 [17:42:17] [Server thread/INFO]: zTrySantiago_XO has made the advancement [Free the End]
 [17:42:17] [Server thread/INFO]: zTrySantiago_XO has made the advancement [Monster Hunter]
+[17:43:36] [Server thread/INFO]: zTrySantiago_XO has made the advancement [The City at the End of the Game]
+[17:45:25] [Server thread/INFO]: zTrySantiago_XO issued server command: /give @p minecraft:netherite_boots{display:{Name:'{"text":"Botas de las Diosas","bold":true}'},Enchantments:[{id:"protection",lvl:1000},{id:"unbreaking",lvl:1000},{id:"feather_falling",lvl:1000},{id:"depth_strider",lvl:1000},{id:"soul_speed",lvl:1000},{id:
+[17:48:01] [Server thread/INFO]: zTrySantiago_XO issued server command: /give @p netherite_helmet{display:{Name:'{"text":"Casco de las Diosas","bold":true}'},Enchantments:[{id:protection,lvl:100},{id:unbreaking,lvl:100},{id:respiration,lvl:10},{id:mending,lvl:1}]} 1
+[17:48:01] [Server thread/INFO]: [zTrySantiago_XO: Gave 1 [Casco de las Diosas] to zTrySantiago_XO]
+[17:48:19] [Server thread/INFO]: zTrySantiago_XO issued server command: /give @p netherite_chestplate{display:{Name:'{"text":"Pechera de las Diosas","bold":true}'},Enchantments:[{id:protection,lvl:100},{id:unbreaking,lvl:100},{id:thorns,lvl:10},{id:mending,lvl:1}]} 1
+[17:48:19] [Server thread/INFO]: [zTrySantiago_XO: Gave 1 [Pechera de las Diosas] to zTrySantiago_XO]
+[17:48:24] [Server thread/INFO]: zTrySantiago_XO issued server command: /give @p netherite_leggings{display:{Name:'{"text":"Pantalones de las Diosas","bold":true}'},Enchantments:[{id:protection,lvl:100},{id:unbreaking,lvl:100},{id:mending,lvl:1}]} 1
+[17:48:24] [Server thread/INFO]: [zTrySantiago_XO: Gave 1 [Pantalones de las Diosas] to zTrySantiago_XO]
+[17:48:30] [Server thread/INFO]: zTrySantiago_XO issued server command: /give @p netherite_boots{display:{Name:'{"text":"Botas de las Diosas","bold":true}'},Enchantments:[{id:protection,lvl:100},{id:unbreaking,lvl:100},{id:feather_falling,lvl:10},{id:depth_strider,lvl:10},{id:mending,lvl:1}]} 1
+[17:48:30] [Server thread/INFO]: zTrySantiago_XO has completed the challenge [Cover Me in Debris]
+[17:48:30] [Server thread/INFO]: [zTrySantiago_XO: Gave 1 [Botas de las Diosas] to zTrySantiago_XO]
+[17:51:08] [Server thread/INFO]: zTrySantiago_XO has made the advancement [Diamonds!]
+[17:51:08] [Server thread/INFO]: zTrySantiago_XO has made the advancement [Isn't It Iron Pick]
+[17:51:08] [Server thread/INFO]: zTrySantiago_XO has made the advancement [Suit Up]
+[17:51:10] [Server thread/INFO]: zTrySantiago_XO has made the advancement [Cover Me with Diamonds]
+[17:51:19] [Server thread/INFO]: zTrySantiago_XO has reached the goal [Sky's the Limit]
+[17:51:35] [Server thread/INFO]: zTrySantiago_XO issued server command: /gamerule commandBlocksEnabled true
+[17:51:50] [Server thread/INFO]: zTrySantiago_XO issued server command: /gamerule commandBlockOutput true
+[17:51:50] [Server thread/INFO]: [zTrySantiago_XO: Gamerule commandBlockOutput is now set to: true]
+[17:51:58] [Server thread/INFO]: zTrySantiago_XO issued server command: /give @a minecraft:command_block
+[17:51:58] [Server thread/INFO]: [zTrySantiago_XO: Gave 1 [Command Block] to zTrySantiago_XO]
+[17:52:18] [Server thread/INFO]: zTrySantiago_XO issued server command: /gamerule commandBlockOutput false
+[17:52:18] [Server thread/INFO]: [zTrySantiago_XO: Gamerule commandBlockOutput is now set to: false]
+[17:53:02] [Server thread/INFO]: zTrySantiago_XO issued server command: /enable command-blocks
