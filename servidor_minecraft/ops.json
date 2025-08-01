@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "1e4fc1fe-43e8-3a5f-8158-8d4b2d51c283",
+    "name": "zTrySantiago_XO{",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "77acf0b0-8f81-3ef1-8323-78f798255cfa",
+    "name": "zTrySantiago_XO",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
