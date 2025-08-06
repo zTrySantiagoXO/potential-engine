@@ -6691,3 +6691,34 @@ java.lang.IllegalArgumentException: Name and ID cannot both be blank
 [23:23:36] [Server thread/INFO]: [FrankAle774: Set own game mode to Spectator Mode]
 [23:23:37] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
 [23:23:37] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:32:12] [Server thread/INFO]: zTrySantiago_XO issued server command: /deop FrankAle774
+[23:32:12] [Server thread/INFO]: [zTrySantiago_XO: Made FrankAle774 no longer a server operator]
+[23:32:25] [Server thread/INFO]: zTrySantiago_XO issued server command: /op FrankAle774
+[23:32:25] [Server thread/INFO]: [zTrySantiago_XO: Made FrankAle774 a server operator]
+[23:32:31] [Server thread/INFO]: FrankAle774 issued server command: /weather clear 1222d
+[23:32:31] [Server thread/INFO]: [FrankAle774: Set the weather to clear]
+[23:32:32] [Server thread/INFO]: FrankAle774 issued server command: /gamemode adventure
+[23:32:32] [Server thread/INFO]: [FrankAle774: Set own game mode to Adventure Mode]
+[23:32:33] [Server thread/INFO]: FrankAle774 issued server command: /gamemode survival
+[23:32:33] [Server thread/INFO]: [FrankAle774: Set own game mode to Survival Mode]
+[23:32:37] [Server thread/INFO]: FrankAle774 issued server command: /gamemode survival @a
+[23:32:37] [Server thread/INFO]: [FrankAle774: Set zTrySantiago_XO's game mode to Survival Mode]
+[23:32:40] [Server thread/INFO]: zTrySantiago_XO issued server command: /deop FrankAle774
+[23:32:40] [Server thread/INFO]: [zTrySantiago_XO: Made FrankAle774 no longer a server operator]
+[23:32:46] [Server thread/INFO]: zTrySantiago_XO issued server command: /deop zTrySantiago_XO
+[23:32:46] [Server thread/INFO]: [zTrySantiago_XO: Made zTrySantiago_XO no longer a server operator]
+[23:33:49] [Server thread/INFO]: zTrySantiago_XO was slain by FrankAle774
+[23:33:49] [Server thread/INFO]: [zTrySantiago_XO: Showing new subtitle for 2 players]
+[23:33:49] [Server thread/INFO]: [zTrySantiago_XO: Displaying particle minecraft:explosion]
+[23:33:49] [Server thread/INFO]: [zTrySantiago_XO: Summoned new Lightning Bolt]
+[23:33:49] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.lightning_bolt.thunder to zTrySantiago_XO]
+[23:33:49] [Server thread/INFO]: [zTrySantiago_XO: Set own game mode to Creative Mode]
+[23:33:49] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:33:49] [Server thread/INFO]: [zTrySantiago_XO: Showing new subtitle for 2 players]
+[23:33:49] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:33:49] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:33:49] [Server thread/INFO]: [zTrySantiago_XO: Reset [muertes] for zTrySantiago_XO]
+[23:34:21] [Server thread/INFO]: FrankAle774 lost connection: Disconnected
+[23:34:21] [Server thread/INFO]: FrankAle774 left the game
+[23:34:33] [Server thread/INFO]: zTrySantiago_XO lost connection: Disconnected
+[23:34:33] [Server thread/INFO]: zTrySantiago_XO left the game
