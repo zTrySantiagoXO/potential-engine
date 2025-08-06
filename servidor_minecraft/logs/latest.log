@@ -6563,3 +6563,131 @@ java.lang.IllegalArgumentException: Name and ID cannot both be blank
 [23:14:22] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
 [23:14:24] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
 [23:14:24] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:16:33] [Server thread/INFO]: zTrySantiago_XO issued server command: /gamemode creative
+[23:16:33] [Server thread/INFO]: [zTrySantiago_XO: Set own game mode to Creative Mode]
+[23:17:22] [Server thread/INFO]: FrankAle774 issued server command: /kill FrankAle774
+[23:17:22] [Server thread/INFO]: FrankAle774 was killed
+[23:17:22] [Server thread/INFO]: [FrankAle774: Killed FrankAle774]
+[23:17:22] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:17:22] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[23:17:22] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:17:22] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:17:22] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[23:17:24] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
+[23:17:24] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:18:01] [Server thread/INFO]: FrankAle774 issued server command: /kill FrankAle774
+[23:18:01] [Server thread/INFO]: FrankAle774 was killed
+[23:18:01] [Server thread/INFO]: [FrankAle774: Killed FrankAle774]
+[23:18:01] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:18:01] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[23:18:01] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:18:01] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:18:01] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[23:18:04] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
+[23:18:04] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:18:46] [Server thread/INFO]: zTrySantiago_XO issued server command: /scoreboard objectives add deathtrain deathCount
+[23:18:46] [Server thread/INFO]: [zTrySantiago_XO: Created new objective [deathtrain]]
+[23:19:29] [Server thread/INFO]: FrankAle774 issued server command: /kill FrankAle774
+[23:19:29] [Server thread/INFO]: FrankAle774 was killed
+[23:19:29] [Server thread/INFO]: [FrankAle774: Killed FrankAle774]
+[23:19:29] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:19:29] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[23:19:29] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:19:29] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:19:29] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[23:19:31] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
+[23:19:31] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:19:36] [Server thread/INFO]: FrankAle774 issued server command: /kill FrankAle774
+[23:19:36] [Server thread/INFO]: FrankAle774 was killed
+[23:19:36] [Server thread/INFO]: [FrankAle774: Killed FrankAle774]
+[23:19:36] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:19:36] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[23:19:36] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:19:36] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:19:36] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[23:19:37] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
+[23:19:37] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:19:49] [Server thread/INFO]: zTrySantiago_XO issued server command: /give @a minecraft:command_block
+[23:19:49] [Server thread/INFO]: [zTrySantiago_XO: Gave 1 [Command Block] to 2]
+[23:19:57] [Server thread/INFO]: FrankAle774 issued server command: /kill FrankAle774
+[23:19:57] [Server thread/INFO]: FrankAle774 was killed
+[23:19:57] [Server thread/INFO]: [FrankAle774: Killed FrankAle774]
+[23:19:57] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:19:57] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[23:19:57] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:19:57] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:19:57] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[23:20:00] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
+[23:20:00] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:20:14] [Server thread/INFO]: FrankAle774 issued server command: /tp zTrySantiago_XO FrankAle774
+[23:20:14] [Server thread/INFO]: [FrankAle774: Teleported zTrySantiago_XO to FrankAle774]
+[23:20:19] [Server thread/INFO]: FrankAle774 issued server command: /tp zTrySantiago_XO FrankAle774
+[23:20:19] [Server thread/INFO]: [FrankAle774: Teleported zTrySantiago_XO to FrankAle774]
+[23:20:25] [Server thread/INFO]: FrankAle774 issued server command: /kill FrankAle774
+[23:20:25] [Server thread/INFO]: FrankAle774 was killed
+[23:20:25] [Server thread/INFO]: [FrankAle774: Killed FrankAle774]
+[23:20:25] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:20:25] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[23:20:25] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:20:25] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:20:25] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[23:20:28] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
+[23:20:28] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:20:38] [Server thread/INFO]: FrankAle774 issued server command: /kill FrankAle774
+[23:20:38] [Server thread/INFO]: FrankAle774 was killed
+[23:20:38] [Server thread/INFO]: [FrankAle774: Killed FrankAle774]
+[23:20:38] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:20:38] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[23:20:38] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:20:38] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:20:38] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[23:20:39] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
+[23:20:39] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:20:50] [Server thread/INFO]: FrankAle774 issued server command: /kill FrankAle774
+[23:20:50] [Server thread/INFO]: FrankAle774 was killed
+[23:20:50] [Server thread/INFO]: [FrankAle774: Killed FrankAle774]
+[23:20:50] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:20:50] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[23:20:50] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:20:50] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:20:50] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[23:20:52] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
+[23:20:52] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:21:48] [Server thread/INFO]: FrankAle774 issued server command: /tp zTrySantiago_XO FrankAle774
+[23:21:48] [Server thread/INFO]: [FrankAle774: Teleported zTrySantiago_XO to FrankAle774]
+[23:22:25] [Server thread/INFO]: zTrySantiago_XO issued server command: /kill FrankAle774
+[23:22:25] [Server thread/INFO]: FrankAle774 was killed
+[23:22:25] [Server thread/INFO]: [zTrySantiago_XO: Killed FrankAle774]
+[23:22:25] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:22:25] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[23:22:25] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:22:25] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:22:25] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[23:23:17] [Server thread/INFO]: zTrySantiago_XO issued server command: /kill FrankAle774
+[23:23:17] [Server thread/INFO]: FrankAle774 was killed
+[23:23:17] [Server thread/INFO]: [zTrySantiago_XO: Killed FrankAle774]
+[23:23:17] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:23:17] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:23:17] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[23:23:17] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:23:17] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:23:17] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[23:23:24] [Server thread/INFO]: zTrySantiago_XO issued server command: /kill FrankAle774
+[23:23:24] [Server thread/INFO]: FrankAle774 was killed
+[23:23:24] [Server thread/INFO]: [zTrySantiago_XO: Killed FrankAle774]
+[23:23:24] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
+[23:23:24] [Server thread/INFO]: [@: Showing new title for 2 players]
+[23:23:24] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[23:23:24] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.wither.death to zTrySantiago_XO]
+[23:23:24] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.wither.death to FrankAle774]
+[23:23:24] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[23:23:30] [Server thread/INFO]: FrankAle774 issued server command: /gamemode survival
+[23:23:30] [Server thread/INFO]: [FrankAle774: Set own game mode to Survival Mode]
+[23:23:34] [Server thread/INFO]: FrankAle774 issued server command: /gamemode spectator
+[23:23:34] [Server thread/INFO]: [FrankAle774: Set own game mode to Spectator Mode]
+[23:23:34] [Server thread/INFO]: FrankAle774 issued server command: /gamemode survival
+[23:23:34] [Server thread/INFO]: [FrankAle774: Set own game mode to Survival Mode]
+[23:23:36] [Server thread/INFO]: FrankAle774 issued server command: /gamemode spectator
+[23:23:36] [Server thread/INFO]: [FrankAle774: Set own game mode to Spectator Mode]
+[23:23:37] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
+[23:23:37] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
