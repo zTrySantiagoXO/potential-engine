@@ -52,3 +52,64 @@
 [22:42:37] [Server thread/INFO]: FrankAle774 issued server command: /gamemode creative
 [22:42:37] [Server thread/INFO]: [FrankAle774: Set own game mode to Creative Mode]
 [22:44:17] [Server thread/INFO]: [@: Successfully filled 1 block(s)]
+[22:45:27] [Server thread/INFO]: [@: Changed the block at -24, 89, -73]
+[22:45:35] [Server thread/INFO]: [@: Changed the block at -24, 89, -73]
+[22:47:25] [Server thread/INFO]: FrankAle774 issued server command: /scoreboard objectives add muerto
+[22:47:29] [Server thread/INFO]: FrankAle774 issued server command: /scoreboard objectives add muerto dummy
+[22:47:29] [Server thread/INFO]: [FrankAle774: Created new objective [muerto]]
+[22:47:34] [Server thread/INFO]: FrankAle774 issued server command: /team add death
+[22:47:34] [Server thread/INFO]: [FrankAle774: Created team [death]]
+[22:47:55] [Server thread/INFO]: zTrySantiago_XO issued server command: /scoreboard objectives add muertes deathCount
+[22:48:39] [Server thread/INFO]: FrankAle774 issued server command: /execute as @a[nbt={DeathTime:20s}] at @s run summon item ~ ~ ~ {Item:{id:"minecraft:player_head",Count:1b,tag:{SkullOwner:"<nombre>"}}}
+[22:49:04] [Server thread/INFO]: FrankAle774 issued server command: /scoreboard objectives add deathDetect deathCount
+[22:49:04] [Server thread/INFO]: [FrankAle774: Created new objective [deathDetect]]
+[22:51:11] [Server thread/INFO]: [@: Showing new title for 2 players]
+[22:51:11] [Server thread/INFO]: [zTrySantiago_XO: Showing new subtitle for 2 players]
+[22:51:11] [Server thread/INFO]: [FrankAle774: Showing new subtitle for 2 players]
+[22:51:11] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.lightning_bolt.thunder to zTrySantiago_XO]
+[22:51:11] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.lightning_bolt.thunder to FrankAle774]
+[22:51:11] [Server thread/INFO]: [zTrySantiago_XO: Reset [muertes] for zTrySantiago_XO]
+[22:51:11] [Server thread/INFO]: [FrankAle774: Reset [muertes] for FrankAle774]
+[22:51:34] [Server thread/INFO]: zTrySantiago_XO issued server command: /kill
+[22:51:34] [Server thread/INFO]: zTrySantiago_XO was killed
+[22:51:34] [Server thread/INFO]: [zTrySantiago_XO: Killed zTrySantiago_XO]
+[22:51:34] [Server thread/INFO]: [zTrySantiago_XO: Summoned new Player Head]
+[22:51:34] [Server thread/INFO]: [zTrySantiago_XO: Summoned new Player Head]
+[22:51:34] [Server thread/INFO]: [zTrySantiago_XO: Gave 1 [@s's Head] to zTrySantiago_XO]
+[22:51:34] [Server thread/INFO]: [zTrySantiago_XO: Summoned new Player Head]
+[22:51:34] [Server thread/INFO]: [@: Set [deathDetect] for zTrySantiago_XO to 0]
+[22:51:34] [Server thread/INFO]: [@: Showing new title for 2 players]
+[22:51:34] [Server thread/INFO]: [zTrySantiago_XO: Showing new subtitle for 2 players]
+[22:51:34] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.lightning_bolt.thunder to zTrySantiago_XO]
+[22:51:34] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.lightning_bolt.thunder to FrankAle774]
+[22:51:34] [Server thread/INFO]: [zTrySantiago_XO: Reset [muertes] for zTrySantiago_XO]
+[22:51:42] [Server thread/INFO]: zTrySantiago_XO issued server command: /gamemode survival
+[22:51:42] [Server thread/INFO]: [zTrySantiago_XO: Set own game mode to Survival Mode]
+[22:51:46] [Server thread/INFO]: zTrySantiago_XO issued server command: /gamemode creative
+[22:51:46] [Server thread/INFO]: [zTrySantiago_XO: Set own game mode to Creative Mode]
+[22:52:18] [Server thread/INFO]: FrankAle774 issued server command: /fill ~ ~ ~ ~2 ~ ~ minecraft:repeating_command_block{Command:"execute as Fundox[scores={deathDetect=1..}] at @s run summon item ~ ~ ~ {Item:{id:\\\"minecraft:player_head\\\",Count:1b,tag:{SkullOwner:\\\"Fundox\\\"}}}",auto:1b}
+[22:52:18] [Server thread/INFO]: [FrankAle774: Successfully filled 3 block(s)]
+[22:52:20] [Server thread/INFO]: zTrySantiago_XO issued server command: /kill
+[22:52:20] [Server thread/INFO]: zTrySantiago_XO was killed
+[22:52:20] [Server thread/INFO]: [zTrySantiago_XO: Killed zTrySantiago_XO]
+[22:52:20] [Server thread/INFO]: [@: Showing new title for 2 players]
+[22:52:20] [Server thread/INFO]: [zTrySantiago_XO: Showing new subtitle for 2 players]
+[22:52:20] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.lightning_bolt.thunder to FrankAle774]
+[22:52:20] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.lightning_bolt.thunder to zTrySantiago_XO]
+[22:52:20] [Server thread/INFO]: [zTrySantiago_XO: Reset [muertes] for zTrySantiago_XO]
+[22:52:32] [Server thread/INFO]: zTrySantiago_XO issued server command: /gamemode creative
+[22:52:32] [Server thread/INFO]: [zTrySantiago_XO: Set own game mode to Creative Mode]
+[22:52:45] [Server thread/INFO]: zTrySantiago_XO issued server command: /gamemode creative
+[22:52:50] [Server thread/INFO]: zTrySantiago_XO issued server command: /gamemode creative
+[22:52:51] [Server thread/INFO]: zTrySantiago_XO issued server command: /kill
+[22:52:51] [Server thread/INFO]: zTrySantiago_XO was killed
+[22:52:51] [Server thread/INFO]: [zTrySantiago_XO: Killed zTrySantiago_XO]
+[22:52:51] [Server thread/INFO]: [@: Showing new title for 2 players]
+[22:52:51] [Server thread/INFO]: [zTrySantiago_XO: Showing new subtitle for 2 players]
+[22:52:51] [Server thread/INFO]: [FrankAle774: Played sound minecraft:entity.lightning_bolt.thunder to FrankAle774]
+[22:52:51] [Server thread/INFO]: [zTrySantiago_XO: Played sound minecraft:entity.lightning_bolt.thunder to zTrySantiago_XO]
+[22:52:51] [Server thread/INFO]: [zTrySantiago_XO: Reset [muertes] for zTrySantiago_XO]
+[22:53:29] [Server thread/INFO]: zTrySantiago_XO issued server command: /gamemode creative
+[22:53:29] [Server thread/INFO]: [zTrySantiago_XO: Set own game mode to Creative Mode]
+[22:54:10] [Server thread/INFO]: FrankAle774 issued server command: /fill ~ ~ ~ ~2 ~ ~ minecraft:repeating_command_block[facing=east]{Command:"execute as FrankAle774[scores={deathDetect=1..}] at @s run summon item ~ ~ ~ {Item:{id:\\\"minecraft:player_head\\\",Count:1b,tag:{SkullOwner:\\\"FrankAle774\\\"}}}",auto:1b}
+[22:54:10] [Server thread/INFO]: [FrankAle774: Successfully filled 3 block(s)]
